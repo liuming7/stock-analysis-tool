@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stock analysis tool", "stock analysis tool\stock analysis tool.pyproj", "{C173553B-ADA6-4260-A804-6F6B7BEB7113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C173553B-ADA6-4260-A804-6F6B7BEB7113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C173553B-ADA6-4260-A804-6F6B7BEB7113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C211A684-BC88-4844-8B94-B7C5DF5A5B28}
+	EndGlobalSection
+EndGlobal

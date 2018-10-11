@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>c173553b-ada6-4260-a804-6f6b7beb7113</TargetProject>
+    <FriendlyName>stock analysis tool</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\biaoc\AppData\Local\Temp\stock analysis tool_20180429.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
